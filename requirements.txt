@@ -1,0 +1,13 @@
+###### Requirements without version specifiers
+selenium
+Pillow
+requests
+boto3
+webdriver-manager
+openpyxl
+pandas
+mysqlclient
+pylint
+
+###### Requirements with version specifiers
+xlrd==1.2.0
